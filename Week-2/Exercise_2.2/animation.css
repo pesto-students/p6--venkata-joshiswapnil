@@ -10,7 +10,7 @@
   #sqr1 {
     width: 100px;
     height: 100px;
-    background-color: aqua;
+    background-color: red;
     transition-duration: 2s;
     transform-origin: top left;
   }
@@ -18,7 +18,7 @@
   #sqr2 {
     width: 100px;
     height: 100px;
-    background-color: rgb(24, 239, 20);
+    background-color: yellow;
     transition-duration: 2s;
     transform-origin: top right;
   }
@@ -26,7 +26,7 @@
   #sqr3 {
     width: 100px;
     height: 100px;
-    background-color: rgb(9, 32, 244);
+    background-color: blue;
     transition-duration: 2s;
     transform-origin: bottom left;
   }
@@ -34,7 +34,7 @@
   #sqr4 {
     width: 100px;
     height: 100px;
-    background-color: rgb(237, 217, 5);
+    background-color: green;
     transition-duration: 2s;
     transform-origin: bottom right;
   }
