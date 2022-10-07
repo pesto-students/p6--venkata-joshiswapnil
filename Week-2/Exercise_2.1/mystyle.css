@@ -39,6 +39,7 @@ body {
   height: 125px;
   width: 40%;
   border-radius: 5px;
+  cursor: default;
 }
 
 img {
