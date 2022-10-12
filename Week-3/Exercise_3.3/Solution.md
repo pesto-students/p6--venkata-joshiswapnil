@@ -2,9 +2,11 @@
 Question 3.3 : What is the output of the below problem and why?
 
 
-function createIncrement() {
+function createIncrement() 
+{
     let count=0;
-    function increment() {
+    function increment() 
+    {
         count++;
     }
     
