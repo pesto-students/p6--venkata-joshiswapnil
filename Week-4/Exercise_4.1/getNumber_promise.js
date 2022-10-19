@@ -63,3 +63,4 @@ numCheck.then((num, state) =>{
     console.log(`Message from catch()=> The number:${err} is divisible by 5`);
 });
 
+
