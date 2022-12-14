@@ -31,3 +31,4 @@ const isValidBSTSubTree = (root, isValid, lower, upper) =>{
 let arr = [2,1,3];
 root = createTree(arr);
 console.log(isValidBST(root));
+
