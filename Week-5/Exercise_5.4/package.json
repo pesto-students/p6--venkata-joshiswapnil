@@ -1,0 +1,17 @@
+{
+    "name": "exercise_5.4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "calculator.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node calculator.js"
+    },
+    "keywords": [],
+    "author": "Swapnil Joshi",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.0.3"
+    }
+  }
+  
